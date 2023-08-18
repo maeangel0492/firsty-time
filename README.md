@@ -8,3 +8,7 @@ This is how^?^ we set up RStudio.
 
 1. install r from [R](www.r-project.org) Website
 2. Install ==RStudio== from their website
+
+## Just playing around
+
+Im doing good.
